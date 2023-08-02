@@ -15,6 +15,10 @@
   
 #### Clustring
 - Clustering is a technique used to group similar objects or data points together based on their similarity. In bioinformatics, clustering is often used to group genes or proteins based on their expression profiles, sequence similarity, or other features. Clustering algorithms commonly used in bioinformatics include hierarchical clustering, K-means clustering, and self-organizing maps.
+
+
+![image](https://github.com/MennahMabrouk/IEEE-EJUST-Bioinformatics-Competition/assets/101124995/a870e49e-3044-46ae-8325-7bc55c5721bd)
+
   
 #### Classification
 - Classification is a technique used to assign objects or data points to predefined categories or classes. In bioinformatics, classification is often used to predict the function of genes or proteins based on their sequence or expression data. Classification algorithms commonly used in bioinformatics include decision trees, random forests, support vector machines, and neural networks.
