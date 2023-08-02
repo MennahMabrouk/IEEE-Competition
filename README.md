@@ -23,5 +23,5 @@
 - Regression is a technique used to predict a continuous variable based on one or more input variables. In bioinformatics, regression is often used to predict gene expression levels or protein interactions based on sequence or other features. Regression algorithms commonly used in bioinformatics include linear regression, logistic regression, and ridge regression.
 
 
-![image](https://github.com/MennahMabrouk/IEEE-EJUST-Bioinformatics-Competition/assets/101124995/e97d3b88-1ea1-4991-a8ec-bdc059259822)
-
+<img src=https://github.com/MennahMabrouk/IEEE-EJUST-Bioinformatics-Competition/assets/101124995/e97d3b88-1ea1-4991-a8ec-bdc059259822)
+width="600" height="400">
