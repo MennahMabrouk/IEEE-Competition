@@ -1,6 +1,6 @@
 ## IEEE-EJUST Bioinformatics Competition
-To see solution on Kaggle
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/mennahtullasameh/bioinformatics-competition?scriptVersionId=138716316) 
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/mennahtullasameh/bioinformatics-competition?scriptVersionId=138716316) to see solution on Kaggle
+
 
 ### Sequence Alignment
 - Sequence alignment is the process of comparing two or more sequences of nucleotides or amino acids to identify regions of similarity and difference. It is an important tool in bioinformatics and is used to compare DNA or protein sequences to identify evolutionary relationships, functional domains, mutations, and other features. There are two main types of sequence alignment:
