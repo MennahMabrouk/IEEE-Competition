@@ -1,0 +1,2 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+150	ADRA2A	adrenoceptor alpha 2A	Homo sapiens	human	9606	NC_000010.11:111077029-111080907;NC_060934.1:111960874-111964752	+;+	chr 10	PROTEIN_CODING	NM_000681.4		3879	NM_000681.4:969-2366	NP_000672.3		465	alpha-2A adrenergic receptor
