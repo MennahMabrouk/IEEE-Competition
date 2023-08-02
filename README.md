@@ -24,4 +24,4 @@
 
 
 <img src=https://github.com/MennahMabrouk/IEEE-EJUST-Bioinformatics-Competition/assets/101124995/e97d3b88-1ea1-4991-a8ec-bdc059259822)
-width="600" height="800">
+width="600" height="700">
